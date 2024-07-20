@@ -23,7 +23,7 @@ A better approach is to use a hashmap to store the count of each number and then
 
 The best approach is to use the concept of finding a loop in a linked list using Floyd's Cycle Detection Algorithm. You can read about it [here](https://www.geeksforgeeks.org/floyds-cycle-finding-algorithm/).
 
-![Example Image](https://postimg.cc/Q9MCxJSS)
+[![Linked List](https://i.postimg.cc/C1Gq7v8y/Whats-App-Image-2024-07-20-at-9-58-16-PM.jpg)](https://postimg.cc/Q9MCxJSS)
 
 We will treat the array as a linked list:
 1. Set both the fast and slow pointers at `nums[0]`.
@@ -35,4 +35,4 @@ We will treat the array as a linked list:
 
 ### Dry run
 
-![Example Image](https://postimg.cc/R6bF3JDm)
+[![Dry run](https://i.postimg.cc/nrnQPvKX/Whats-App-Image-2024-07-20-at-9-58-15-PM.jpg)](https://postimg.cc/R6bF3JDm)
