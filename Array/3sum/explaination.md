@@ -1,8 +1,4 @@
-Sure, here's a detailed explanation in Markdown format.
-
----
-
-# Finding Triplets with Sum Zero
+# Code Explaination
 
 ## Problem Statement
 

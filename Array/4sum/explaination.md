@@ -1,8 +1,4 @@
-Here's a detailed explanation in Markdown format for finding unique quadruplets that sum up to a given target.
-
----
-
-# Finding Quadruplets with Target Sum
+# Code Explaination
 
 ## Problem Statement
 
